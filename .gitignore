@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/Super_Return_Ball/Assets/Prefabs
+/Super_Return_Ball/Assets/TextMesh Pro/Examples & Extras
+/Super_Return_Ball/Assets/TextMesh Pro
+/Super_Return_Ball/Library
